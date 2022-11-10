@@ -12,6 +12,7 @@ Analysis of the 6 year and 8 months dataset sourced from the National Weather Se
  - The average temperature in June is 3.9°F higher than it is in December.
  - While their maximum temperatures are only 2°F apart, December's minimum temperature is 8°F lower than June's minimum temperature.
  - 75% of June's average temperature readings are in the mid to upper 70s, and 75% of December's average temperature readings are in the low to mid 70s; 3/4 of both months' readings also fall within a 4-5°F range.
+
 ![June Temperature Stats](https://github.com/Jay-ni13/surfs_up/blob/main/Images/june_temps_stats.png) ![December Temperature Stats](https://github.com/Jay-ni13/surfs_up/blob/main/Images/december_temps_stats.png)
 
 ## Summary
